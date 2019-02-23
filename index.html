@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Disease Mesh</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+      <link rel="icon" type="image/ico" href="favicon.ico" />
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.0/semantic.min.css" />
+      <link href="css/jquery.autocompleter.css" type="text/css" rel="stylesheet">
+      <link href="css/bubble_tree.css" type="text/css" rel="stylesheet"/>
+      <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+  </head>
+<body>
+    <div class="row"></div>
+    <br>
+    <div class="loader no-display"></div>
+    <div class="row">
+      <div class="col-md-5 no-display side-bar">
+		<form class="searchBar-container margin-bottom">
+			<div class="input-group">
+                <input type="text" class="form-control" placeholder="Search for Gene" name="gene" id="suggestions" autocomplete="off">
+			</div>
+		</form>
+        <div class="data-table no-display">
+           <h4 class="text-center">ASSOCIATED DISEASES</h4>
+           <table id="children-table" class="table table-striped hover display" style="cursor:pointer">
+                <thead>
+                    <tr>
+                        <th>Branch Name</th>
+                        <th>Minimum Novelty of Branch</th>
+                        <th>Top 3 Diseases (Max Sig)</th>
+                        <th>Number of Associated Diseases</th>
+                        <th>Level</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id="tree_structure"></div>
+      </div>
+        <div id="plotLegend" class="col-md-1"></div>
+        <div id="figure" class="col-md-6"></div>
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
+    <script type="text/javascript" src="js/jquery.autocompleter.min.js"></script>
+    <script type="text/javascript" src="js/bubble_tree.js"></script>
+    <script type="text/javascript">
+      d3.select(self.frameElement).style("height", "100px");
+    </script>
+</body>

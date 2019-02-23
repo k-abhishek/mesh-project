@@ -1,0 +1,3190 @@
+{
+    "name": "Mesh",
+    "children": [{
+        "name": "Congenital Disorders",
+        "children": [{
+            "name": "Congenital Abnormalities",
+            "children": [{
+                "name": "Musculoskeletal Abnormalities",
+                "children": [{
+                    "name": "Synostosis",
+                    "children": [{
+                        "name": "Syndactyly",
+                        "children": [{
+                            "values": {},
+                            "name": "Apert Syndrome"
+                        }]
+                    }, {
+                        "name": "Brachycephaly",
+                        "children": [{
+                            "values": {},
+                            "name": "Apert Syndrome"
+                        }]
+                    }]
+                }, {
+                    "name": "Limb Deformities, Congenital",
+                    "children": [{
+                        "name": "Syndactyly",
+                        "children": [{
+                            "values": {},
+                            "name": "Apert Syndrome"
+                        }]
+                    }, {
+                        "name": "Polydactyly",
+                        "children": [{
+                            "values": {},
+                            "name": "Pallister-Hall Syndrome"
+                        }]
+                    }]
+                }, {
+                    "name": "Craniofacial Abnormalities",
+                    "children": [{
+                        "name": "Brachycephaly",
+                        "children": [{
+                            "values": {},
+                            "name": "Apert Syndrome"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Skin Abnormalities",
+                "children": [{
+                    "values": {},
+                    "name": "IBIDS Syndrome"
+                }]
+            }, {
+                "name": "Respiratory System Abnormalities",
+                "children": [{
+                    "values": {},
+                    "name": "Primary Ciliary Dyskinesia"
+                }, {
+                    "values": {},
+                    "name": "Scimitar Syndrome"
+                }]
+            }, {
+                "name": "Abnormalities, Multiple",
+                "children": [{
+                    "values": {},
+                    "name": "IBIDS Syndrome"
+                }, {
+                    "values": {},
+                    "name": "Pallister-Hall Syndrome"
+                }, {
+                    "name": "Ciliopathies",
+                    "children": [{
+                        "name": "Ciliary Motility Disorders",
+                        "children": [{
+                            "values": {},
+                            "name": "Primary Ciliary Dyskinesia"
+                        }]
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Rubella Syndrome, Congenital"
+                }]
+            }, {
+                "name": "Cranioschisis",
+                "children": [{
+                    "name": "Cortical Dysplasia",
+                    "children": [{
+                        "name": "Malformations of Cortical Development, Group II",
+                        "children": [{
+                            "values": {},
+                            "name": "X-Linked Lissencephaly"
+                        }, {
+                            "name": "Lissencephaly",
+                            "children": [{
+                                "values": {},
+                                "name": "X-Linked Lissencephaly"
+                            }]
+                        }]
+                    }]
+                }, {
+                    "name": "Hereditary, Type VII, Motor and Sensory Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Charcot-Marie-Tooth Disease"
+                    }]
+                }, {
+                    "name": "Hereditary Sensory Radicular Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Dysautonomia, Familial"
+                    }]
+                }]
+            }, {
+                "name": "Situs Inversus",
+                "children": [{
+                    "name": "Dextrocardia",
+                    "children": [{
+                        "values": {},
+                        "name": "Primary Ciliary Dyskinesia"
+                    }]
+                }]
+            }, {
+                "name": "Cardiovascular Abnormalities",
+                "children": [{
+                    "name": "Heart Defects, Congenital",
+                    "children": [{
+                        "name": "Long QT Syndrome",
+                        "children": [{
+                            "values": {},
+                            "name": "Romano-Ward Syndrome"
+                        }]
+                    }, {
+                        "name": "Dextrocardia",
+                        "children": [{
+                            "values": {},
+                            "name": "Primary Ciliary Dyskinesia"
+                        }]
+                    }]
+                }, {
+                    "name": "Vascular Malformations",
+                    "children": [{
+                        "values": {},
+                        "name": "Scimitar Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Urogenital Abnormalities",
+                "children": [{
+                    "name": "Hermaphroditism",
+                    "children": [{
+                        "name": "Adrenogenital Syndrome",
+                        "children": [{
+                            "values": {},
+                            "name": "Adrenal Hyperplasia, Congenital"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Hereditary Diseases",
+            "children": [{
+                "values": {},
+                "name": "Adrenal Hyperplasia, Congenital"
+            }, {
+                "name": "Blood Coagulation Disorders, Inherited",
+                "children": [{
+                    "values": {},
+                    "name": "Wiskott-Aldrich Syndrome"
+                }]
+            }, {
+                "values": {},
+                "name": "Obstructive Asymmetric Septal Hypertrophy"
+            }, {
+                "values": {},
+                "name": "Primary Ciliary Dyskinesia"
+            }, {
+                "name": "Muscular Dystrophies",
+                "children": [{
+                    "values": {},
+                    "name": "Distal Myopathies"
+                }, {
+                    "values": {},
+                    "name": "Glycogen Storage Disease Type VII"
+                }]
+            }, {
+                "name": "Metabolism, Inborn Errors",
+                "children": [{
+                    "name": "Peroxisomal Disorders",
+                    "children": [{
+                        "values": {},
+                        "name": "Refsum Disease, Infantile"
+                    }]
+                }, {
+                    "name": "Rotor Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Crigler-Najjar Syndrome"
+                    }]
+                }, {
+                    "name": "Amino Acid Metabolism, Inborn Errors",
+                    "children": [{
+                        "values": {},
+                        "name": "Propionic Acidemia"
+                    }, {
+                        "values": {},
+                        "name": "Glutaric Aciduria IIB"
+                    }, {
+                        "values": {},
+                        "name": "Hyperglycinemia, Nonketotic"
+                    }, {
+                        "name": "Urea Cycle Disorders, Inborn",
+                        "children": [{
+                            "values": {},
+                            "name": "Citrullinemia"
+                        }, {
+                            "values": {},
+                            "name": "Argininosuccinic Aciduria"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Tyrosinemia, Type I"
+                    }]
+                }, {
+                    "name": "Carbohydrate Metabolism, Inborn Errors",
+                    "children": [{
+                        "name": "Glycogen Storage Disease",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "values": {},
+                            "name": "Glycogen Storage Disease Type I"
+                        }, {
+                            "values": {},
+                            "name": "Glycogen Storage Disease Type VII"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Galactosemias"
+                    }, {
+                        "name": "Mucopolysaccharidoses",
+                        "children": [{
+                            "values": {},
+                            "name": "Mucopolysaccharidosis III"
+                        }]
+                    }, {
+                        "name": "Fructose Metabolism, Inborn Errors",
+                        "children": [{
+                            "values": {},
+                            "name": "Fructose-1,6-Diphosphatase Deficiency"
+                        }]
+                    }]
+                }, {
+                    "name": "Lipidoses",
+                    "children": [{
+                        "name": "Sphingolipidoses",
+                        "children": [{
+                            "name": "Niemann-Pick Diseases",
+                            "children": [{
+                                "values": {},
+                                "name": "Niemann-Pick Disease, Type C"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Farber Lipogranulomatosis"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Neuronal Ceroid-Lipofuscinoses"
+                    }]
+                }, {
+                    "name": "Steroid Metabolism, Inborn Errors",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenal Hyperplasia, Congenital"
+                    }]
+                }, {
+                    "name": "Brain Diseases, Metabolic, Inborn",
+                    "children": [{
+                        "name": "Lysosomal Storage Diseases, Nervous System",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "name": "Sphingolipidoses",
+                            "children": [{
+                                "name": "Niemann-Pick Diseases",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Niemann-Pick Disease, Type C"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Farber Lipogranulomatosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Hyperglycinemia, Nonketotic"
+                    }, {
+                        "values": {},
+                        "name": "Homocystinuria"
+                    }, {
+                        "values": {},
+                        "name": "Tyrosinemia, Type I"
+                    }, {
+                        "values": {},
+                        "name": "Galactosemias"
+                    }, {
+                        "values": {},
+                        "name": "Refsum Disease, Infantile"
+                    }, {
+                        "name": "Urea Cycle Disorders, Inborn",
+                        "children": [{
+                            "values": {},
+                            "name": "Citrullinemia"
+                        }, {
+                            "values": {},
+                            "name": "Argininosuccinic Aciduria"
+                        }]
+                    }]
+                }, {
+                    "name": "Lysosomal Storage Diseases",
+                    "children": [{
+                        "name": "Mucopolysaccharidoses",
+                        "children": [{
+                            "values": {},
+                            "name": "Mucopolysaccharidosis III"
+                        }]
+                    }, {
+                        "name": "Lysosomal Storage Diseases, Nervous System",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "name": "Sphingolipidoses",
+                            "children": [{
+                                "name": "Niemann-Pick Diseases",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Niemann-Pick Disease, Type C"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Farber Lipogranulomatosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Cystinosis"
+                    }, {
+                        "values": {},
+                        "name": "Aspartylglucosaminuria"
+                    }]
+                }]
+            }, {
+                "name": "Heredodegenerative Disorders, Nervous System",
+                "children": [{
+                    "name": "Mental Retardation, X-Linked",
+                    "children": [{
+                        "values": {},
+                        "name": "X-Linked Lissencephaly"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Lafora Disease"
+                }, {
+                    "values": {},
+                    "name": "Bulbo-Spinal Atrophy, X-Linked"
+                }, {
+                    "values": {},
+                    "name": "Neuronal Ceroid-Lipofuscinoses"
+                }, {
+                    "name": "Hereditary, Type VII, Motor and Sensory Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Charcot-Marie-Tooth Disease"
+                    }]
+                }, {
+                    "name": "Hereditary Sensory Radicular Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Dysautonomia, Familial"
+                    }]
+                }, {
+                    "name": "Optic Atrophies, Hereditary",
+                    "children": [{
+                        "values": {},
+                        "name": "Optic Atrophy, Autosomal Dominant"
+                    }]
+                }]
+            }, {
+                "name": "Ciliopathies",
+                "children": [{
+                    "name": "Ciliary Motility Disorders",
+                    "children": [{
+                        "values": {},
+                        "name": "Primary Ciliary Dyskinesia"
+                    }]
+                }]
+            }, {
+                "name": "Neoplastic Syndromes, Hereditary",
+                "children": [{
+                    "name": "Multiple Endocrine Neoplasia",
+                    "children": [{
+                        "values": {},
+                        "name": "Multiple Endocrine Neoplasia Type 2a"
+                    }]
+                }]
+            }, {
+                "name": "Skin Diseases, Genetic",
+                "children": [{
+                    "values": {},
+                    "name": "Lipoid Proteinosis of Urbach and Wiethe"
+                }, {
+                    "values": {},
+                    "name": "Porphyria, Erythropoietic"
+                }, {
+                    "name": "Porphyrias, Hepatic",
+                    "children": [{
+                        "values": {},
+                        "name": "Porphyria, Hepatoerythropoietic"
+                    }, {
+                        "values": {},
+                        "name": "Protoporphyria, Erythropoietic"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "IBIDS Syndrome"
+                }]
+            }, {
+                "name": "Genetic Diseases, X-Linked",
+                "children": [{
+                    "name": "Mental Retardation, X-Linked",
+                    "children": [{
+                        "values": {},
+                        "name": "X-Linked Lissencephaly"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Bulbo-Spinal Atrophy, X-Linked"
+                }, {
+                    "values": {},
+                    "name": "Wiskott-Aldrich Syndrome"
+                }, {
+                    "values": {},
+                    "name": "Autosomal Recessive Chronic Granulomatous Disease"
+                }]
+            }, {
+                "name": "Eye Diseases, Hereditary",
+                "children": [{
+                    "name": "Retinitis Pigmentosa",
+                    "children": [{
+                        "values": {},
+                        "name": "Usher Syndromes"
+                    }]
+                }, {
+                    "name": "Optic Atrophies, Hereditary",
+                    "children": [{
+                        "values": {},
+                        "name": "Optic Atrophy, Autosomal Dominant"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Gyrate Atrophy"
+                }]
+            }]
+        }]
+    }, {
+        "name": "Bacterial Infections and Mycoses",
+        "children": [{
+            "name": "Central Nervous System Infections",
+            "children": [{
+                "name": "Prion Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Scrapie"
+                }]
+            }]
+        }, {
+            "name": "Infection",
+            "children": [{
+                "name": "Sexually Transmitted Diseases",
+                "children": [{
+                    "name": "Sexually Transmitted Diseases, Viral",
+                    "children": [{
+                        "name": "HIV Infections",
+                        "children": [{
+                            "values": {},
+                            "name": "AIDS-Related Complex"
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Female Urogenital Diseases and Pregnancy Complications",
+        "children": [{
+            "name": "Female Urogenital Diseases",
+            "children": [{
+                "name": "Genitourinary Cancer",
+                "children": [{
+                    "name": "Urologic Neoplasms",
+                    "children": [{
+                        "name": "Kidney Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Chromophobe Renal Cell Carcinoma"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Urinary Bladder Cancer"
+                    }]
+                }]
+            }, {
+                "name": "Urologic Diseases",
+                "children": [{
+                    "name": "Urinary Bladder Diseases",
+                    "children": [{
+                        "values": {},
+                        "name": "Urinary Bladder Cancer"
+                    }]
+                }, {
+                    "name": "Kidney Diseases",
+                    "children": [{
+                        "name": "Kidney Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Chromophobe Renal Cell Carcinoma"
+                        }]
+                    }, {
+                        "name": "Diabetes Insipidus",
+                        "children": [{
+                            "values": {},
+                            "name": "Diabetes Insipidus, Neurogenic"
+                        }, {
+                            "values": {},
+                            "name": "Congenital Nephrogenic Diabetes Insipidus"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Genital Diseases, Female",
+                "children": [{
+                    "name": "Sexually Transmitted Diseases",
+                    "children": [{
+                        "name": "Sexually Transmitted Diseases, Viral",
+                        "children": [{
+                            "name": "HIV Infections",
+                            "children": [{
+                                "values": {},
+                                "name": "AIDS-Related Complex"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Urogenital Abnormalities",
+                "children": [{
+                    "name": "Hermaphroditism",
+                    "children": [{
+                        "name": "Adrenogenital Syndrome",
+                        "children": [{
+                            "values": {},
+                            "name": "Adrenal Hyperplasia, Congenital"
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Immune System Diseases",
+        "children": [{
+            "name": "Autoimmune Diseases",
+            "children": [{
+                "values": {},
+                "name": "Diabetes, Autoimmune"
+            }, {
+                "values": {},
+                "name": "Cold Agglutinin Disease"
+            }, {
+                "name": "Immune Disorders, Nervous System",
+                "children": [{
+                    "values": {},
+                    "name": "Stiff-Person Syndrome"
+                }]
+            }]
+        }, {
+            "name": "Immunologic Deficiency Syndromes",
+            "children": [{
+                "name": "Phagocyte Bactericidal Dysfunction",
+                "children": [{
+                    "values": {},
+                    "name": "Autosomal Recessive Chronic Granulomatous Disease"
+                }]
+            }, {
+                "name": "HIV Infections",
+                "children": [{
+                    "values": {},
+                    "name": "AIDS-Related Complex"
+                }]
+            }, {
+                "name": "Lymphopenia",
+                "children": [{
+                    "values": {},
+                    "name": "Wiskott-Aldrich Syndrome"
+                }]
+            }]
+        }, {
+            "name": "Immunoproliferative Disorders",
+            "children": [{
+                "name": "Plasma Cell Dyscrasias",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Myeloma"
+                }]
+            }, {
+                "name": "Lymphoproliferative Disorders",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Myeloma"
+                }, {
+                    "name": "Leukemia, Lymphoid",
+                    "children": [{
+                        "name": "Leukemia, B-Cell",
+                        "children": [{
+                            "values": {},
+                            "name": "Leukemia, Lymphocytic, Chronic, B-Cell"
+                        }]
+                    }]
+                }, {
+                    "name": "Lymphoma",
+                    "children": [{
+                        "name": "Lymphoma, Non-Hodgkin",
+                        "children": [{
+                            "values": {},
+                            "name": "Lymphoma, Follicular"
+                        }, {
+                            "name": "Lymphoma, B-Cell",
+                            "children": [{
+                                "name": "Lymphoma, Large B-Cell, Diffuse",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Plasmablastic Lymphoma"
+                                }]
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Animal Diseases",
+        "children": [{
+            "name": "Sheep Diseases",
+            "children": [{
+                "values": {},
+                "name": "Scrapie"
+            }]
+        }]
+    }, {
+        "name": "Nervous System Diseases",
+        "children": [{
+            "name": "Neurologic Symptoms",
+            "children": [{
+                "name": "Dyskinesias",
+                "children": [{
+                    "values": {},
+                    "name": "Tics"
+                }, {
+                    "values": {},
+                    "name": "Hyperkinesis"
+                }]
+            }, {
+                "name": "Paralysis",
+                "children": [{
+                    "values": {},
+                    "name": "Pseudobulbar Palsy"
+                }]
+            }, {
+                "name": "Pain",
+                "children": [{
+                    "values": {},
+                    "name": "Acute Pain"
+                }, {
+                    "name": "Nociceptive Pain",
+                    "children": [{
+                        "values": {},
+                        "name": "Visceral Pain"
+                    }]
+                }]
+            }, {
+                "name": "Sensory Disorders",
+                "children": [{
+                    "name": "Hearing Disorders",
+                    "children": [{
+                        "name": "Hearing Loss",
+                        "children": [{
+                            "name": "Hearing Loss, Sensorineural",
+                            "children": [{
+                                "values": {},
+                                "name": "Usher Syndromes"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Neurobehavioral Manifestations",
+                "children": [{
+                    "name": "Mental Retardation, X-Linked",
+                    "children": [{
+                        "values": {},
+                        "name": "X-Linked Lissencephaly"
+                    }]
+                }, {
+                    "name": "Psychomotor Impairment",
+                    "children": [{
+                        "name": "Apraxias",
+                        "children": [{
+                            "values": {},
+                            "name": "Alien Hand Syndrome"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Central Nervous System Diseases",
+            "children": [{
+                "name": "Central Nervous System Infections",
+                "children": [{
+                    "name": "Prion Diseases",
+                    "children": [{
+                        "values": {},
+                        "name": "Scrapie"
+                    }]
+                }]
+            }, {
+                "name": "Spinal Cord Diseases",
+                "children": [{
+                    "name": "Progressive Muscular Atrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Bulbo-Spinal Atrophy, X-Linked"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Stiff-Person Syndrome"
+                }]
+            }, {
+                "name": "Movement Disorders",
+                "children": [{
+                    "name": "Dyskinesias",
+                    "children": [{
+                        "values": {},
+                        "name": "Tics"
+                    }, {
+                        "values": {},
+                        "name": "Hyperkinesis"
+                    }]
+                }]
+            }, {
+                "name": "Encephalopathy",
+                "children": [{
+                    "name": "Brain Cancer",
+                    "children": [{
+                        "name": "Supratentorial Neoplasms",
+                        "children": [{
+                            "name": "Hypothalamic Neoplasms",
+                            "children": [{
+                                "values": {},
+                                "name": "Pallister-Hall Syndrome"
+                            }]
+                        }]
+                    }]
+                }, {
+                    "name": "Brain Diseases, Metabolic",
+                    "children": [{
+                        "name": "Brain Diseases, Metabolic, Inborn",
+                        "children": [{
+                            "name": "Lysosomal Storage Diseases, Nervous System",
+                            "children": [{
+                                "values": {},
+                                "name": "Acid Maltase Deficiency"
+                            }, {
+                                "name": "Sphingolipidoses",
+                                "children": [{
+                                    "name": "Niemann-Pick Diseases",
+                                    "children": [{
+                                        "values": {},
+                                        "name": "Niemann-Pick Disease, Type C"
+                                    }]
+                                }, {
+                                    "values": {},
+                                    "name": "Farber Lipogranulomatosis"
+                                }]
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Hyperglycinemia, Nonketotic"
+                        }, {
+                            "values": {},
+                            "name": "Homocystinuria"
+                        }, {
+                            "values": {},
+                            "name": "Tyrosinemia, Type I"
+                        }, {
+                            "values": {},
+                            "name": "Galactosemias"
+                        }, {
+                            "values": {},
+                            "name": "Refsum Disease, Infantile"
+                        }, {
+                            "name": "Urea Cycle Disorders, Inborn",
+                            "children": [{
+                                "values": {},
+                                "name": "Citrullinemia"
+                            }, {
+                                "values": {},
+                                "name": "Argininosuccinic Aciduria"
+                            }]
+                        }]
+                    }]
+                }, {
+                    "name": "Hypothalamic Diseases",
+                    "children": [{
+                        "name": "Pituitary Diseases",
+                        "children": [{
+                            "name": "Diabetes Insipidus",
+                            "children": [{
+                                "values": {},
+                                "name": "Diabetes Insipidus, Neurogenic"
+                            }, {
+                                "values": {},
+                                "name": "Congenital Nephrogenic Diabetes Insipidus"
+                            }]
+                        }]
+                    }, {
+                        "name": "Hypothalamic Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Pallister-Hall Syndrome"
+                        }]
+                    }]
+                }, {
+                    "name": "Epilepsy",
+                    "children": [{
+                        "name": "Epileptic Syndromes",
+                        "children": [{
+                            "name": "Myoclonic Astatic Epilepsy",
+                            "children": [{
+                                "name": "Dentatorubral-Pallidoluysian Atrophy",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Lafora Disease"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Myoclonic Epilepsy, Juvenile"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Epilepsy, Frontal Lobe"
+                        }]
+                    }, {
+                        "name": "Simple Partial Seizures",
+                        "children": [{
+                            "values": {},
+                            "name": "Epilepsy, Frontal Lobe"
+                        }]
+                    }, {
+                        "name": "Symptomatic Generalized Epilepsy",
+                        "children": [{
+                            "name": "Myoclonic Astatic Epilepsy",
+                            "children": [{
+                                "name": "Dentatorubral-Pallidoluysian Atrophy",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Lafora Disease"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Myoclonic Epilepsy, Juvenile"
+                            }]
+                        }]
+                    }]
+                }, {
+                    "name": "Dementia",
+                    "children": [{
+                        "values": {},
+                        "name": "Alzheimer Disease"
+                    }, {
+                        "name": "Frontotemporal Lobar Degeneration",
+                        "children": [{
+                            "values": {},
+                            "name": "Frontotemporal Dementia"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Nervous System Neoplasms",
+            "children": [{
+                "name": "Central Nervous System Neoplasms",
+                "children": [{
+                    "name": "Brain Cancer",
+                    "children": [{
+                        "name": "Supratentorial Neoplasms",
+                        "children": [{
+                            "name": "Hypothalamic Neoplasms",
+                            "children": [{
+                                "values": {},
+                                "name": "Pallister-Hall Syndrome"
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Cranial Nerve Palsies",
+            "children": [{
+                "name": "Optic Nerve Diseases",
+                "children": [{
+                    "name": "Optic Atrophy",
+                    "children": [{
+                        "name": "Optic Atrophies, Hereditary",
+                        "children": [{
+                            "values": {},
+                            "name": "Optic Atrophy, Autosomal Dominant"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Immune Disorders, Nervous System",
+            "children": [{
+                "values": {},
+                "name": "Stiff-Person Syndrome"
+            }]
+        }, {
+            "name": "Neuromuscular Diseases",
+            "children": [{
+                "name": "Muscular Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Muscle Neoplasms"
+                }, {
+                    "name": "Spinopontine Atrophy",
+                    "children": [{
+                        "name": "Muscular Dystrophies",
+                        "children": [{
+                            "values": {},
+                            "name": "Distal Myopathies"
+                        }, {
+                            "values": {},
+                            "name": "Glycogen Storage Disease Type VII"
+                        }]
+                    }]
+                }, {
+                    "name": "Centronuclear Myopathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Myopathy, Central Core"
+                    }]
+                }]
+            }, {
+                "name": "Peripheral Nervous System Diseases",
+                "children": [{
+                    "name": "Polyneuropathies",
+                    "children": [{
+                        "name": "Hereditary, Type VII, Motor and Sensory Neuropathy",
+                        "children": [{
+                            "values": {},
+                            "name": "Charcot-Marie-Tooth Disease"
+                        }]
+                    }, {
+                        "name": "Hereditary Sensory Radicular Neuropathy",
+                        "children": [{
+                            "values": {},
+                            "name": "Dysautonomia, Familial"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Motor Neuron Disease",
+                "children": [{
+                    "name": "Progressive Muscular Atrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Bulbo-Spinal Atrophy, X-Linked"
+                    }]
+                }]
+            }, {
+                "values": {},
+                "name": "Stiff-Person Syndrome"
+            }]
+        }, {
+            "name": "Neurodegenerative Diseases",
+            "children": [{
+                "name": "TDP-43 Proteinopathies",
+                "children": [{
+                    "name": "Frontotemporal Lobar Degeneration",
+                    "children": [{
+                        "values": {},
+                        "name": "Frontotemporal Dementia"
+                    }]
+                }]
+            }, {
+                "name": "Heredodegenerative Disorders, Nervous System",
+                "children": [{
+                    "name": "Mental Retardation, X-Linked",
+                    "children": [{
+                        "values": {},
+                        "name": "X-Linked Lissencephaly"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Lafora Disease"
+                }, {
+                    "values": {},
+                    "name": "Bulbo-Spinal Atrophy, X-Linked"
+                }, {
+                    "values": {},
+                    "name": "Neuronal Ceroid-Lipofuscinoses"
+                }, {
+                    "name": "Hereditary, Type VII, Motor and Sensory Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Charcot-Marie-Tooth Disease"
+                    }]
+                }, {
+                    "name": "Hereditary Sensory Radicular Neuropathy",
+                    "children": [{
+                        "values": {},
+                        "name": "Dysautonomia, Familial"
+                    }]
+                }, {
+                    "name": "Optic Atrophies, Hereditary",
+                    "children": [{
+                        "values": {},
+                        "name": "Optic Atrophy, Autosomal Dominant"
+                    }]
+                }]
+            }, {
+                "name": "Tauopathies",
+                "children": [{
+                    "values": {},
+                    "name": "Alzheimer Disease"
+                }]
+            }, {
+                "name": "Motor Neuron Disease",
+                "children": [{
+                    "name": "Progressive Muscular Atrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Bulbo-Spinal Atrophy, X-Linked"
+                    }]
+                }]
+            }, {
+                "name": "Prion Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Scrapie"
+                }]
+            }]
+        }, {
+            "name": "Autonomic Nervous System Diseases",
+            "children": [{
+                "name": "Primary Dysautonomias",
+                "children": [{
+                    "values": {},
+                    "name": "Dysautonomia, Familial"
+                }]
+            }]
+        }, {
+            "name": "Cranioschisis",
+            "children": [{
+                "name": "Cortical Dysplasia",
+                "children": [{
+                    "name": "Malformations of Cortical Development, Group II",
+                    "children": [{
+                        "values": {},
+                        "name": "X-Linked Lissencephaly"
+                    }, {
+                        "name": "Lissencephaly",
+                        "children": [{
+                            "values": {},
+                            "name": "X-Linked Lissencephaly"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Hereditary, Type VII, Motor and Sensory Neuropathy",
+                "children": [{
+                    "values": {},
+                    "name": "Charcot-Marie-Tooth Disease"
+                }]
+            }, {
+                "name": "Hereditary Sensory Radicular Neuropathy",
+                "children": [{
+                    "values": {},
+                    "name": "Dysautonomia, Familial"
+                }]
+            }]
+        }]
+    }, {
+        "name": "Eye Diseases",
+        "children": [{
+            "name": "Optic Nerve Diseases",
+            "children": [{
+                "name": "Optic Atrophy",
+                "children": [{
+                    "name": "Optic Atrophies, Hereditary",
+                    "children": [{
+                        "values": {},
+                        "name": "Optic Atrophy, Autosomal Dominant"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Retinal Diseases",
+            "children": [{
+                "name": "Retinal Degeneration",
+                "children": [{
+                    "name": "Retinal Dystrophies",
+                    "children": [{
+                        "name": "Retinitis Pigmentosa",
+                        "children": [{
+                            "values": {},
+                            "name": "Usher Syndromes"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Retinal Cancer",
+                "children": [{
+                    "values": {},
+                    "name": "Retinoblastoma"
+                }]
+            }]
+        }, {
+            "name": "Eye Neoplasms",
+            "children": [{
+                "name": "Retinal Cancer",
+                "children": [{
+                    "values": {},
+                    "name": "Retinoblastoma"
+                }]
+            }]
+        }, {
+            "name": "Uveal Diseases",
+            "children": [{
+                "name": "Choroid Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Gyrate Atrophy"
+                }]
+            }]
+        }, {
+            "name": "Eye Diseases, Hereditary",
+            "children": [{
+                "name": "Retinitis Pigmentosa",
+                "children": [{
+                    "values": {},
+                    "name": "Usher Syndromes"
+                }]
+            }, {
+                "name": "Optic Atrophies, Hereditary",
+                "children": [{
+                    "values": {},
+                    "name": "Optic Atrophy, Autosomal Dominant"
+                }]
+            }, {
+                "values": {},
+                "name": "Gyrate Atrophy"
+            }]
+        }]
+    }, {
+        "name": "Otorhinolaryngologic Diseases",
+        "children": [{
+            "name": "Ciliary Motility Disorders",
+            "children": [{
+                "values": {},
+                "name": "Primary Ciliary Dyskinesia"
+            }]
+        }, {
+            "name": "Ear Diseases",
+            "children": [{
+                "name": "Hearing Disorders",
+                "children": [{
+                    "name": "Hearing Loss",
+                    "children": [{
+                        "name": "Hearing Loss, Sensorineural",
+                        "children": [{
+                            "values": {},
+                            "name": "Usher Syndromes"
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Hemic and Lymphatic Diseases",
+        "children": [{
+            "name": "Lymphatic Diseases",
+            "children": [{
+                "name": "Histiocytosis",
+                "children": [{
+                    "name": "Reticulohistiocytoma",
+                    "children": [{
+                        "name": "Niemann-Pick Diseases",
+                        "children": [{
+                            "values": {},
+                            "name": "Niemann-Pick Disease, Type C"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Lymphoproliferative Disorders",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Myeloma"
+                }, {
+                    "name": "Leukemia, Lymphoid",
+                    "children": [{
+                        "name": "Leukemia, B-Cell",
+                        "children": [{
+                            "values": {},
+                            "name": "Leukemia, Lymphocytic, Chronic, B-Cell"
+                        }]
+                    }]
+                }, {
+                    "name": "Lymphoma",
+                    "children": [{
+                        "name": "Lymphoma, Non-Hodgkin",
+                        "children": [{
+                            "values": {},
+                            "name": "Lymphoma, Follicular"
+                        }, {
+                            "name": "Lymphoma, B-Cell",
+                            "children": [{
+                                "name": "Lymphoma, Large B-Cell, Diffuse",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Plasmablastic Lymphoma"
+                                }]
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Hematologic Diseases",
+            "children": [{
+                "name": "Blood Coagulation Disorders",
+                "children": [{
+                    "name": "Blood Coagulation Disorders, Inherited",
+                    "children": [{
+                        "values": {},
+                        "name": "Wiskott-Aldrich Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Blood Protein Disorders",
+                "children": [{
+                    "name": "Plasma Cell Dyscrasias",
+                    "children": [{
+                        "values": {},
+                        "name": "Multiple Myeloma"
+                    }]
+                }]
+            }, {
+                "name": "Hemorrhagic Disorders",
+                "children": [{
+                    "name": "Hemostatic Disorders",
+                    "children": [{
+                        "values": {},
+                        "name": "Multiple Myeloma"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Wiskott-Aldrich Syndrome"
+                }]
+            }, {
+                "name": "Leukocyte Disorders",
+                "children": [{
+                    "name": "Leukopenia",
+                    "children": [{
+                        "name": "Lymphopenia",
+                        "children": [{
+                            "values": {},
+                            "name": "Wiskott-Aldrich Syndrome"
+                        }]
+                    }]
+                }, {
+                    "name": "Phagocyte Bactericidal Dysfunction",
+                    "children": [{
+                        "values": {},
+                        "name": "Autosomal Recessive Chronic Granulomatous Disease"
+                    }]
+                }]
+            }, {
+                "name": "Bone Marrow Diseases",
+                "children": [{
+                    "name": "Myelodysplastic Syndromes",
+                    "children": [{
+                        "values": {},
+                        "name": "Anemia, Sideroblastic"
+                    }]
+                }]
+            }, {
+                "name": "Anemia",
+                "children": [{
+                    "values": {},
+                    "name": "Anemia, Sideroblastic"
+                }, {
+                    "name": "Microangiopathic Hemolytic Anemia",
+                    "children": [{
+                        "values": {},
+                        "name": "Cold Agglutinin Disease"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Cardiovascular Diseases",
+        "children": [{
+            "name": "Vascular Diseases",
+            "children": [{
+                "values": {},
+                "name": "Scimitar Syndrome"
+            }, {
+                "name": "Hemostatic Disorders",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Myeloma"
+                }]
+            }, {
+                "name": "Myocardial Ischemia",
+                "children": [{
+                    "name": "Myocardial Infarction",
+                    "children": [{
+                        "values": {},
+                        "name": "ST Elevation Myocardial Infarction"
+                    }, {
+                        "values": {},
+                        "name": "Acute Inferior Myocardial Infarction"
+                    }, {
+                        "values": {},
+                        "name": "Non-ST Elevated Myocardial Infarction"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Cardiovascular Abnormalities",
+            "children": [{
+                "name": "Heart Defects, Congenital",
+                "children": [{
+                    "name": "Long QT Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Romano-Ward Syndrome"
+                    }]
+                }, {
+                    "name": "Dextrocardia",
+                    "children": [{
+                        "values": {},
+                        "name": "Primary Ciliary Dyskinesia"
+                    }]
+                }]
+            }, {
+                "name": "Vascular Malformations",
+                "children": [{
+                    "values": {},
+                    "name": "Scimitar Syndrome"
+                }]
+            }]
+        }, {
+            "name": "Heart Diseases",
+            "children": [{
+                "name": "Ventricular Outflow Obstruction",
+                "children": [{
+                    "name": "Aortic Valve Stenosis",
+                    "children": [{
+                        "name": "Aortic Stenosis, Subvalvular",
+                        "children": [{
+                            "name": "Cardiomyopathy, Hypertrophic",
+                            "children": [{
+                                "values": {},
+                                "name": "Obstructive Asymmetric Septal Hypertrophy"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Cardiac Hypertrophy",
+                "children": [{
+                    "values": {},
+                    "name": "Cardiomyopathy, Dilated"
+                }]
+            }, {
+                "name": "Cardiomyopathies",
+                "children": [{
+                    "name": "Cardiomyopathy, Hypertrophic",
+                    "children": [{
+                        "values": {},
+                        "name": "Obstructive Asymmetric Septal Hypertrophy"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Cardiomyopathy, Dilated"
+                }]
+            }, {
+                "name": "Arrhythmias, Cardiac",
+                "children": [{
+                    "values": {},
+                    "name": "Atrial Fibrillation"
+                }, {
+                    "name": "Cardiac Complexes, Premature",
+                    "children": [{
+                        "values": {},
+                        "name": "Ventricular Premature Complexes"
+                    }, {
+                        "values": {},
+                        "name": "Atrial Premature Complexes"
+                    }]
+                }, {
+                    "name": "Heart Block",
+                    "children": [{
+                        "values": {},
+                        "name": "Sinoatrial Block"
+                    }]
+                }, {
+                    "name": "Long QT Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Romano-Ward Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Myocardial Ischemia",
+                "children": [{
+                    "name": "Myocardial Infarction",
+                    "children": [{
+                        "values": {},
+                        "name": "ST Elevation Myocardial Infarction"
+                    }, {
+                        "values": {},
+                        "name": "Acute Inferior Myocardial Infarction"
+                    }, {
+                        "values": {},
+                        "name": "Non-ST Elevated Myocardial Infarction"
+                    }]
+                }]
+            }, {
+                "name": "Cardiac Conduction Defects",
+                "children": [{
+                    "name": "Cardiac Complexes, Premature",
+                    "children": [{
+                        "values": {},
+                        "name": "Ventricular Premature Complexes"
+                    }, {
+                        "values": {},
+                        "name": "Atrial Premature Complexes"
+                    }]
+                }, {
+                    "name": "Heart Block",
+                    "children": [{
+                        "values": {},
+                        "name": "Sinoatrial Block"
+                    }]
+                }, {
+                    "name": "Long QT Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Romano-Ward Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Heart Valve Diseases",
+                "children": [{
+                    "name": "Aortic Valve Stenosis",
+                    "children": [{
+                        "name": "Aortic Stenosis, Subvalvular",
+                        "children": [{
+                            "name": "Cardiomyopathy, Hypertrophic",
+                            "children": [{
+                                "values": {},
+                                "name": "Obstructive Asymmetric Septal Hypertrophy"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Heart Defects, Congenital",
+                "children": [{
+                    "name": "Long QT Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Romano-Ward Syndrome"
+                    }]
+                }, {
+                    "name": "Dextrocardia",
+                    "children": [{
+                        "values": {},
+                        "name": "Primary Ciliary Dyskinesia"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Nutritional and Metabolic Diseases",
+        "children": [{
+            "name": "Metabolic Diseases",
+            "children": [{
+                "name": "Metabolism, Inborn Errors",
+                "children": [{
+                    "name": "Peroxisomal Disorders",
+                    "children": [{
+                        "values": {},
+                        "name": "Refsum Disease, Infantile"
+                    }]
+                }, {
+                    "name": "Rotor Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Crigler-Najjar Syndrome"
+                    }]
+                }, {
+                    "name": "Amino Acid Metabolism, Inborn Errors",
+                    "children": [{
+                        "values": {},
+                        "name": "Propionic Acidemia"
+                    }, {
+                        "values": {},
+                        "name": "Glutaric Aciduria IIB"
+                    }, {
+                        "values": {},
+                        "name": "Hyperglycinemia, Nonketotic"
+                    }, {
+                        "name": "Urea Cycle Disorders, Inborn",
+                        "children": [{
+                            "values": {},
+                            "name": "Citrullinemia"
+                        }, {
+                            "values": {},
+                            "name": "Argininosuccinic Aciduria"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Tyrosinemia, Type I"
+                    }]
+                }, {
+                    "name": "Carbohydrate Metabolism, Inborn Errors",
+                    "children": [{
+                        "name": "Glycogen Storage Disease",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "values": {},
+                            "name": "Glycogen Storage Disease Type I"
+                        }, {
+                            "values": {},
+                            "name": "Glycogen Storage Disease Type VII"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Galactosemias"
+                    }, {
+                        "name": "Mucopolysaccharidoses",
+                        "children": [{
+                            "values": {},
+                            "name": "Mucopolysaccharidosis III"
+                        }]
+                    }, {
+                        "name": "Fructose Metabolism, Inborn Errors",
+                        "children": [{
+                            "values": {},
+                            "name": "Fructose-1,6-Diphosphatase Deficiency"
+                        }]
+                    }]
+                }, {
+                    "name": "Lipidoses",
+                    "children": [{
+                        "name": "Sphingolipidoses",
+                        "children": [{
+                            "name": "Niemann-Pick Diseases",
+                            "children": [{
+                                "values": {},
+                                "name": "Niemann-Pick Disease, Type C"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Farber Lipogranulomatosis"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Neuronal Ceroid-Lipofuscinoses"
+                    }]
+                }, {
+                    "name": "Steroid Metabolism, Inborn Errors",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenal Hyperplasia, Congenital"
+                    }]
+                }, {
+                    "name": "Brain Diseases, Metabolic, Inborn",
+                    "children": [{
+                        "name": "Lysosomal Storage Diseases, Nervous System",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "name": "Sphingolipidoses",
+                            "children": [{
+                                "name": "Niemann-Pick Diseases",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Niemann-Pick Disease, Type C"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Farber Lipogranulomatosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Hyperglycinemia, Nonketotic"
+                    }, {
+                        "values": {},
+                        "name": "Homocystinuria"
+                    }, {
+                        "values": {},
+                        "name": "Tyrosinemia, Type I"
+                    }, {
+                        "values": {},
+                        "name": "Galactosemias"
+                    }, {
+                        "values": {},
+                        "name": "Refsum Disease, Infantile"
+                    }, {
+                        "name": "Urea Cycle Disorders, Inborn",
+                        "children": [{
+                            "values": {},
+                            "name": "Citrullinemia"
+                        }, {
+                            "values": {},
+                            "name": "Argininosuccinic Aciduria"
+                        }]
+                    }]
+                }, {
+                    "name": "Lysosomal Storage Diseases",
+                    "children": [{
+                        "name": "Mucopolysaccharidoses",
+                        "children": [{
+                            "values": {},
+                            "name": "Mucopolysaccharidosis III"
+                        }]
+                    }, {
+                        "name": "Lysosomal Storage Diseases, Nervous System",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "name": "Sphingolipidoses",
+                            "children": [{
+                                "name": "Niemann-Pick Diseases",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Niemann-Pick Disease, Type C"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Farber Lipogranulomatosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Cystinosis"
+                    }, {
+                        "values": {},
+                        "name": "Aspartylglucosaminuria"
+                    }]
+                }]
+            }, {
+                "name": "Brain Diseases, Metabolic",
+                "children": [{
+                    "name": "Brain Diseases, Metabolic, Inborn",
+                    "children": [{
+                        "name": "Lysosomal Storage Diseases, Nervous System",
+                        "children": [{
+                            "values": {},
+                            "name": "Acid Maltase Deficiency"
+                        }, {
+                            "name": "Sphingolipidoses",
+                            "children": [{
+                                "name": "Niemann-Pick Diseases",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Niemann-Pick Disease, Type C"
+                                }]
+                            }, {
+                                "values": {},
+                                "name": "Farber Lipogranulomatosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Hyperglycinemia, Nonketotic"
+                    }, {
+                        "values": {},
+                        "name": "Homocystinuria"
+                    }, {
+                        "values": {},
+                        "name": "Tyrosinemia, Type I"
+                    }, {
+                        "values": {},
+                        "name": "Galactosemias"
+                    }, {
+                        "values": {},
+                        "name": "Refsum Disease, Infantile"
+                    }, {
+                        "name": "Urea Cycle Disorders, Inborn",
+                        "children": [{
+                            "values": {},
+                            "name": "Citrullinemia"
+                        }, {
+                            "values": {},
+                            "name": "Argininosuccinic Aciduria"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Protein Misfolding Disorders",
+                "children": [{
+                    "name": "TDP-43 Proteinopathies",
+                    "children": [{
+                        "name": "Frontotemporal Lobar Degeneration",
+                        "children": [{
+                            "values": {},
+                            "name": "Frontotemporal Dementia"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Porphyrias",
+                "children": [{
+                    "name": "Porphyrias, Hepatic",
+                    "children": [{
+                        "values": {},
+                        "name": "Porphyria, Hepatoerythropoietic"
+                    }, {
+                        "values": {},
+                        "name": "Protoporphyria, Erythropoietic"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Porphyria, Erythropoietic"
+                }]
+            }, {
+                "name": "Skin Diseases, Metabolic",
+                "children": [{
+                    "name": "Lipodystrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Lipodystrophy, Congenital Generalized"
+                    }]
+                }]
+            }, {
+                "name": "Lipid Metabolism Disorders",
+                "children": [{
+                    "name": "Lipidoses",
+                    "children": [{
+                        "name": "Sphingolipidoses",
+                        "children": [{
+                            "name": "Niemann-Pick Diseases",
+                            "children": [{
+                                "values": {},
+                                "name": "Niemann-Pick Disease, Type C"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Farber Lipogranulomatosis"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Neuronal Ceroid-Lipofuscinoses"
+                    }]
+                }, {
+                    "name": "Lipodystrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Lipodystrophy, Congenital Generalized"
+                    }]
+                }, {
+                    "name": "Dyslipidemias",
+                    "children": [{
+                        "name": "Hyperlipidemias",
+                        "children": [{
+                            "values": {},
+                            "name": "Hyperlipidemia, Familial Combined"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Glucose Metabolism Disorders",
+                "children": [{
+                    "name": "Hyperglycemia",
+                    "children": [{
+                        "values": {},
+                        "name": "Glucose Intolerance"
+                    }]
+                }, {
+                    "name": "Diabetes Mellitus",
+                    "children": [{
+                        "name": "Diabetes Complications",
+                        "children": [{
+                            "values": {},
+                            "name": "Diabetic Ketoacidosis"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Diabetes, Autoimmune"
+                    }, {
+                        "values": {},
+                        "name": "Diabetic Ketoacidosis"
+                    }]
+                }]
+            }, {
+                "name": "Acid-Base Imbalance",
+                "children": [{
+                    "name": "Acidosis",
+                    "children": [{
+                        "values": {},
+                        "name": "Acidosis, Lactic"
+                    }, {
+                        "name": "Ketosis",
+                        "children": [{
+                            "values": {},
+                            "name": "Diabetic Ketoacidosis"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Mitochondrial Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Optic Atrophy, Autosomal Dominant"
+                }, {
+                    "values": {},
+                    "name": "Glutaric Aciduria IIB"
+                }]
+            }, {
+                "name": "Water-Electrolyte Imbalance",
+                "children": [{
+                    "values": {},
+                    "name": "Dehydration"
+                }]
+            }]
+        }, {
+            "name": "Nutrition Disorders",
+            "children": [{
+                "name": "Malnutrition",
+                "children": [{
+                    "values": {},
+                    "name": "Starvation"
+                }]
+            }, {
+                "name": "Overnutrition",
+                "children": [{
+                    "name": "Obesity",
+                    "children": [{
+                        "values": {},
+                        "name": "Obesity, Abdominal"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Virus Diseases",
+        "children": [{
+            "name": "Sexually Transmitted Diseases",
+            "children": [{
+                "name": "Sexually Transmitted Diseases, Viral",
+                "children": [{
+                    "name": "HIV Infections",
+                    "children": [{
+                        "values": {},
+                        "name": "AIDS-Related Complex"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Slow Virus Diseases",
+            "children": [{
+                "values": {},
+                "name": "AIDS-Related Complex"
+            }]
+        }, {
+            "name": "RNA Virus Infections",
+            "children": [{
+                "name": "Retroviridae Infections",
+                "children": [{
+                    "name": "Lentivirus Infections",
+                    "children": [{
+                        "name": "HIV Infections",
+                        "children": [{
+                            "values": {},
+                            "name": "AIDS-Related Complex"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Togaviridae Infections",
+                "children": [{
+                    "name": "Rubivirus Infections",
+                    "children": [{
+                        "name": "Rubella",
+                        "children": [{
+                            "values": {},
+                            "name": "Rubella Syndrome, Congenital"
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Digestive System Diseases",
+        "children": [{
+            "name": "Digestive System Neoplasms",
+            "children": [{
+                "name": "Gastrointestinal Neoplasms",
+                "children": [{
+                    "values": {},
+                    "name": "Stomach Neoplasms"
+                }]
+            }, {
+                "name": "Liver Neoplasms",
+                "children": [{
+                    "values": {},
+                    "name": "Adenoma, Liver Cell"
+                }, {
+                    "values": {},
+                    "name": "Carcinoma, Hepatocellular"
+                }]
+            }, {
+                "name": "Pancreatic Neoplasms",
+                "children": [{
+                    "name": "Carcinoma, Islet Cell",
+                    "children": [{
+                        "values": {},
+                        "name": "Glucagonoma"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Pancreatic Diseases",
+            "children": [{
+                "name": "Pancreatic Neoplasms",
+                "children": [{
+                    "name": "Carcinoma, Islet Cell",
+                    "children": [{
+                        "values": {},
+                        "name": "Glucagonoma"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Liver Diseases",
+            "children": [{
+                "name": "Liver Diseases, Alcoholic",
+                "children": [{
+                    "values": {},
+                    "name": "Alcoholic Steatohepatitis"
+                }]
+            }, {
+                "name": "Liver Neoplasms",
+                "children": [{
+                    "values": {},
+                    "name": "Adenoma, Liver Cell"
+                }, {
+                    "values": {},
+                    "name": "Carcinoma, Hepatocellular"
+                }]
+            }, {
+                "name": "Porphyrias, Hepatic",
+                "children": [{
+                    "values": {},
+                    "name": "Porphyria, Hepatoerythropoietic"
+                }, {
+                    "values": {},
+                    "name": "Protoporphyria, Erythropoietic"
+                }]
+            }, {
+                "name": "Steatohepatitis",
+                "children": [{
+                    "values": {},
+                    "name": "Non-alcoholic Fatty Liver Disease"
+                }, {
+                    "values": {},
+                    "name": "Alcoholic Steatohepatitis"
+                }]
+            }]
+        }, {
+            "name": "Gastrointestinal Diseases",
+            "children": [{
+                "name": "Gastrointestinal Neoplasms",
+                "children": [{
+                    "values": {},
+                    "name": "Stomach Neoplasms"
+                }]
+            }, {
+                "name": "Stomach Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Stomach Neoplasms"
+                }]
+            }, {
+                "name": "Esophageal Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Barrett Esophagus"
+                }]
+            }]
+        }]
+    }, {
+        "name": "Male Urogenital Diseases",
+        "children": [{
+            "name": "Genital Diseases, Male",
+            "children": [{
+                "name": "Sexually Transmitted Diseases",
+                "children": [{
+                    "name": "Sexually Transmitted Diseases, Viral",
+                    "children": [{
+                        "name": "HIV Infections",
+                        "children": [{
+                            "values": {},
+                            "name": "AIDS-Related Complex"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Genitourinary Cancer",
+            "children": [{
+                "name": "Urologic Neoplasms",
+                "children": [{
+                    "name": "Kidney Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Chromophobe Renal Cell Carcinoma"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Urinary Bladder Cancer"
+                }]
+            }]
+        }, {
+            "name": "Urologic Diseases",
+            "children": [{
+                "name": "Urinary Bladder Diseases",
+                "children": [{
+                    "values": {},
+                    "name": "Urinary Bladder Cancer"
+                }]
+            }, {
+                "name": "Kidney Diseases",
+                "children": [{
+                    "name": "Kidney Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Chromophobe Renal Cell Carcinoma"
+                    }]
+                }, {
+                    "name": "Diabetes Insipidus",
+                    "children": [{
+                        "values": {},
+                        "name": "Diabetes Insipidus, Neurogenic"
+                    }, {
+                        "values": {},
+                        "name": "Congenital Nephrogenic Diabetes Insipidus"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Urogenital Abnormalities",
+            "children": [{
+                "name": "Hermaphroditism",
+                "children": [{
+                    "name": "Adrenogenital Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenal Hyperplasia, Congenital"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Skin and Connective Tissue Diseases",
+        "children": [{
+            "name": "Connective Tissue Diseases",
+            "children": [{
+                "name": "Mucinoses",
+                "children": [{
+                    "name": "Mucopolysaccharidoses",
+                    "children": [{
+                        "values": {},
+                        "name": "Mucopolysaccharidosis III"
+                    }]
+                }]
+            }, {
+                "values": {},
+                "name": "Homocystinuria"
+            }, {
+                "name": "Neoplasms, Connective Tissue",
+                "children": [{
+                    "name": "Neoplasms, Fibrous Tissue",
+                    "children": [{
+                        "name": "Histiocytoma",
+                        "children": [{
+                            "values": {},
+                            "name": "Dermatofibroma"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Skin Diseases",
+            "children": [{
+                "name": "Skin Abnormalities",
+                "children": [{
+                    "values": {},
+                    "name": "IBIDS Syndrome"
+                }]
+            }, {
+                "name": "Dermatitis",
+                "children": [{
+                    "name": "Eczema",
+                    "children": [{
+                        "values": {},
+                        "name": "Eczema, Dyshidrotic"
+                    }]
+                }]
+            }, {
+                "name": "Breast Diseases",
+                "children": [{
+                    "name": "Breast Cancer",
+                    "children": [{
+                        "values": {},
+                        "name": "Triple Negative Breast Neoplasms"
+                    }, {
+                        "values": {},
+                        "name": "Carcinoma, Ductal, Breast"
+                    }]
+                }]
+            }, {
+                "name": "Skin Diseases, Metabolic",
+                "children": [{
+                    "name": "Lipodystrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Lipodystrophy, Congenital Generalized"
+                    }]
+                }]
+            }, {
+                "name": "Skin Diseases, Genetic",
+                "children": [{
+                    "values": {},
+                    "name": "Lipoid Proteinosis of Urbach and Wiethe"
+                }, {
+                    "values": {},
+                    "name": "Porphyria, Erythropoietic"
+                }, {
+                    "name": "Porphyrias, Hepatic",
+                    "children": [{
+                        "values": {},
+                        "name": "Porphyria, Hepatoerythropoietic"
+                    }, {
+                        "values": {},
+                        "name": "Protoporphyria, Erythropoietic"
+                    }]
+                }, {
+                    "values": {},
+                    "name": "IBIDS Syndrome"
+                }]
+            }, {
+                "name": "Skin Diseases, Vesiculobullous",
+                "children": [{
+                    "values": {},
+                    "name": "Eczema, Dyshidrotic"
+                }]
+            }, {
+                "name": "Skin Diseases, Eczematous",
+                "children": [{
+                    "name": "Eczema",
+                    "children": [{
+                        "values": {},
+                        "name": "Eczema, Dyshidrotic"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Musculoskeletal Diseases",
+        "children": [{
+            "name": "Muscular Diseases",
+            "children": [{
+                "values": {},
+                "name": "Muscle Neoplasms"
+            }, {
+                "name": "Spinopontine Atrophy",
+                "children": [{
+                    "name": "Muscular Dystrophies",
+                    "children": [{
+                        "values": {},
+                        "name": "Distal Myopathies"
+                    }, {
+                        "values": {},
+                        "name": "Glycogen Storage Disease Type VII"
+                    }]
+                }]
+            }, {
+                "name": "Centronuclear Myopathy",
+                "children": [{
+                    "values": {},
+                    "name": "Myopathy, Central Core"
+                }]
+            }]
+        }, {
+            "name": "Bone Diseases",
+            "children": [{
+                "values": {},
+                "name": "Osteitis"
+            }, {
+                "name": "Bone Diseases, Developmental",
+                "children": [{
+                    "name": "Dysostoses",
+                    "children": [{
+                        "name": "Synostosis",
+                        "children": [{
+                            "name": "Syndactyly",
+                            "children": [{
+                                "values": {},
+                                "name": "Apert Syndrome"
+                            }]
+                        }, {
+                            "name": "Brachycephaly",
+                            "children": [{
+                                "values": {},
+                                "name": "Apert Syndrome"
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Musculoskeletal Abnormalities",
+            "children": [{
+                "name": "Synostosis",
+                "children": [{
+                    "name": "Syndactyly",
+                    "children": [{
+                        "values": {},
+                        "name": "Apert Syndrome"
+                    }]
+                }, {
+                    "name": "Brachycephaly",
+                    "children": [{
+                        "values": {},
+                        "name": "Apert Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Limb Deformities, Congenital",
+                "children": [{
+                    "name": "Syndactyly",
+                    "children": [{
+                        "values": {},
+                        "name": "Apert Syndrome"
+                    }]
+                }, {
+                    "name": "Polydactyly",
+                    "children": [{
+                        "values": {},
+                        "name": "Pallister-Hall Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Craniofacial Abnormalities",
+                "children": [{
+                    "name": "Brachycephaly",
+                    "children": [{
+                        "values": {},
+                        "name": "Apert Syndrome"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Respiratory Tract Diseases",
+        "children": [{
+            "name": "Tracheal Diseases",
+            "children": [{
+                "values": {},
+                "name": "Tracheal Neoplasms"
+            }]
+        }, {
+            "name": "Respiratory Tract Neoplasms",
+            "children": [{
+                "values": {},
+                "name": "Tracheal Neoplasms"
+            }]
+        }, {
+            "name": "Bronchial Diseases",
+            "children": [{
+                "name": "Bronchiectasis",
+                "children": [{
+                    "values": {},
+                    "name": "Primary Ciliary Dyskinesia"
+                }]
+            }]
+        }, {
+            "name": "Lung Diseases",
+            "children": [{
+                "values": {},
+                "name": "Scimitar Syndrome"
+            }]
+        }, {
+            "name": "Ciliary Motility Disorders",
+            "children": [{
+                "values": {},
+                "name": "Primary Ciliary Dyskinesia"
+            }]
+        }, {
+            "name": "Respiratory System Abnormalities",
+            "children": [{
+                "values": {},
+                "name": "Primary Ciliary Dyskinesia"
+            }, {
+                "values": {},
+                "name": "Scimitar Syndrome"
+            }]
+        }]
+    }, {
+        "name": "Endocrine System Diseases",
+        "children": [{
+            "name": "Adrenal Gland Diseases",
+            "children": [{
+                "values": {},
+                "name": "Adrenal Hyperplasia, Congenital"
+            }, {
+                "name": "Adrenal Cortex Diseases",
+                "children": [{
+                    "name": "Adrenal Cortex Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenocortical Carcinoma"
+                    }, {
+                        "values": {},
+                        "name": "Adrenocortical Adenoma"
+                    }]
+                }]
+            }, {
+                "name": "Adrenal Cancer",
+                "children": [{
+                    "name": "Adrenal Cortex Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenocortical Carcinoma"
+                    }, {
+                        "values": {},
+                        "name": "Adrenocortical Adenoma"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Endocrine Gland Neoplasms",
+            "children": [{
+                "name": "Multiple Endocrine Neoplasia",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Endocrine Neoplasia Type 2a"
+                }]
+            }, {
+                "name": "Pancreatic Neoplasms",
+                "children": [{
+                    "name": "Carcinoma, Islet Cell",
+                    "children": [{
+                        "values": {},
+                        "name": "Glucagonoma"
+                    }]
+                }]
+            }, {
+                "name": "Adrenal Cancer",
+                "children": [{
+                    "name": "Adrenal Cortex Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenocortical Carcinoma"
+                    }, {
+                        "values": {},
+                        "name": "Adrenocortical Adenoma"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Gonadal Disorders",
+            "children": [{
+                "name": "Hermaphroditism",
+                "children": [{
+                    "name": "Adrenogenital Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Adrenal Hyperplasia, Congenital"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Pituitary Diseases",
+            "children": [{
+                "name": "Diabetes Insipidus",
+                "children": [{
+                    "values": {},
+                    "name": "Diabetes Insipidus, Neurogenic"
+                }, {
+                    "values": {},
+                    "name": "Congenital Nephrogenic Diabetes Insipidus"
+                }]
+            }]
+        }, {
+            "name": "Diabetes Mellitus",
+            "children": [{
+                "name": "Diabetes Complications",
+                "children": [{
+                    "values": {},
+                    "name": "Diabetic Ketoacidosis"
+                }]
+            }, {
+                "values": {},
+                "name": "Diabetes, Autoimmune"
+            }, {
+                "values": {},
+                "name": "Diabetic Ketoacidosis"
+            }]
+        }]
+    }, {
+        "name": "Pathological Conditions, Signs and Symptoms",
+        "children": [{
+            "name": "Pathologic Processes",
+            "children": [{
+                "name": "Death",
+                "children": [{
+                    "name": "Death, Sudden",
+                    "children": [{
+                        "values": {},
+                        "name": "Sudden Infant Death"
+                    }]
+                }, {
+                    "name": "Infant Death",
+                    "children": [{
+                        "values": {},
+                        "name": "Sudden Infant Death"
+                    }]
+                }]
+            }, {
+                "name": "Inflammation",
+                "children": [{
+                    "values": {},
+                    "name": "Acute-Phase Reaction"
+                }]
+            }, {
+                "name": "Ischemia",
+                "children": [{
+                    "values": {},
+                    "name": "Infarction"
+                }]
+            }, {
+                "values": {},
+                "name": "Protein Aggregation, Pathological"
+            }, {
+                "name": "Intraoperative Complications",
+                "children": [{
+                    "values": {},
+                    "name": "Blood Loss, Surgical"
+                }]
+            }, {
+                "name": "Chromosome Aberrations",
+                "children": [{
+                    "name": "Polyploidy",
+                    "children": [{
+                        "values": {},
+                        "name": "Tetraploidy"
+                    }]
+                }]
+            }, {
+                "name": "Disease Attributes",
+                "children": [{
+                    "values": {},
+                    "name": "Emergencies"
+                }, {
+                    "name": "Chronic Disease",
+                    "children": [{
+                        "values": {},
+                        "name": "Multiple Chronic Conditions"
+                    }]
+                }]
+            }, {
+                "name": "Necrosis",
+                "children": [{
+                    "values": {},
+                    "name": "Infarction"
+                }]
+            }, {
+                "name": "Disease",
+                "children": [{
+                    "values": {},
+                    "name": "Syndrome"
+                }]
+            }, {
+                "name": "Arrhythmias, Cardiac",
+                "children": [{
+                    "values": {},
+                    "name": "Atrial Fibrillation"
+                }, {
+                    "name": "Cardiac Complexes, Premature",
+                    "children": [{
+                        "values": {},
+                        "name": "Ventricular Premature Complexes"
+                    }, {
+                        "values": {},
+                        "name": "Atrial Premature Complexes"
+                    }]
+                }, {
+                    "name": "Heart Block",
+                    "children": [{
+                        "values": {},
+                        "name": "Sinoatrial Block"
+                    }]
+                }, {
+                    "name": "Long QT Syndrome",
+                    "children": [{
+                        "values": {},
+                        "name": "Romano-Ward Syndrome"
+                    }]
+                }]
+            }, {
+                "name": "Neoplastic Processes",
+                "children": [{
+                    "values": {},
+                    "name": "Neoplasm Recurrence, Local"
+                }]
+            }, {
+                "name": "Hemorrhage",
+                "children": [{
+                    "values": {},
+                    "name": "Blood Loss, Surgical"
+                }]
+            }, {
+                "values": {},
+                "name": "Dehydration"
+            }]
+        }, {
+            "name": "Pathological Conditions, Anatomical",
+            "children": [{
+                "name": "Hypertrophy",
+                "children": [{
+                    "name": "Cardiac Hypertrophy",
+                    "children": [{
+                        "values": {},
+                        "name": "Cardiomyopathy, Dilated"
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Signs and Symptoms",
+            "children": [{
+                "name": "Body Weight",
+                "children": [{
+                    "values": {},
+                    "name": "Underweight"
+                }, {
+                    "name": "Body Weight Changes",
+                    "children": [{
+                        "values": {},
+                        "name": "Weight Gain"
+                    }]
+                }, {
+                    "name": "Overweight",
+                    "children": [{
+                        "name": "Obesity",
+                        "children": [{
+                            "values": {},
+                            "name": "Obesity, Abdominal"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Heart Murmurs",
+                "children": [{
+                    "values": {},
+                    "name": "Systolic Murmurs"
+                }]
+            }, {
+                "name": "Neurologic Symptoms",
+                "children": [{
+                    "name": "Dyskinesias",
+                    "children": [{
+                        "values": {},
+                        "name": "Tics"
+                    }, {
+                        "values": {},
+                        "name": "Hyperkinesis"
+                    }]
+                }, {
+                    "name": "Paralysis",
+                    "children": [{
+                        "values": {},
+                        "name": "Pseudobulbar Palsy"
+                    }]
+                }, {
+                    "name": "Pain",
+                    "children": [{
+                        "values": {},
+                        "name": "Acute Pain"
+                    }, {
+                        "name": "Nociceptive Pain",
+                        "children": [{
+                            "values": {},
+                            "name": "Visceral Pain"
+                        }]
+                    }]
+                }, {
+                    "name": "Sensory Disorders",
+                    "children": [{
+                        "name": "Hearing Disorders",
+                        "children": [{
+                            "name": "Hearing Loss",
+                            "children": [{
+                                "name": "Hearing Loss, Sensorineural",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Usher Syndromes"
+                                }]
+                            }]
+                        }]
+                    }]
+                }, {
+                    "name": "Neurobehavioral Manifestations",
+                    "children": [{
+                        "name": "Mental Retardation, X-Linked",
+                        "children": [{
+                            "values": {},
+                            "name": "X-Linked Lissencephaly"
+                        }]
+                    }, {
+                        "name": "Psychomotor Impairment",
+                        "children": [{
+                            "name": "Apraxias",
+                            "children": [{
+                                "values": {},
+                                "name": "Alien Hand Syndrome"
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Cancer",
+        "children": [{
+            "name": "Neoplasms, Multiple Primary",
+            "children": [{
+                "name": "Multiple Endocrine Neoplasia",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Endocrine Neoplasia Type 2a"
+                }]
+            }]
+        }, {
+            "name": "Precancerous Conditions",
+            "children": [{
+                "values": {},
+                "name": "Barrett Esophagus"
+            }]
+        }, {
+            "name": "Neoplastic Processes",
+            "children": [{
+                "values": {},
+                "name": "Neoplasm Recurrence, Local"
+            }]
+        }, {
+            "name": "Neoplastic Syndromes, Hereditary",
+            "children": [{
+                "name": "Multiple Endocrine Neoplasia",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Endocrine Neoplasia Type 2a"
+                }]
+            }]
+        }, {
+            "name": "Neoplasms by Histologic Type",
+            "children": [{
+                "name": "Neoplasms, Plasma Cell",
+                "children": [{
+                    "values": {},
+                    "name": "Multiple Myeloma"
+                }]
+            }, {
+                "name": "Neoplasms, Connective and Soft Tissue",
+                "children": [{
+                    "name": "Sarcoma",
+                    "children": [{
+                        "values": {},
+                        "name": "Leiomyosarcoma"
+                    }]
+                }, {
+                    "name": "Myofibroblastoma",
+                    "children": [{
+                        "values": {},
+                        "name": "Leiomyosarcoma"
+                    }]
+                }, {
+                    "name": "Neoplasms, Connective Tissue",
+                    "children": [{
+                        "name": "Neoplasms, Fibrous Tissue",
+                        "children": [{
+                            "name": "Histiocytoma",
+                            "children": [{
+                                "values": {},
+                                "name": "Dermatofibroma"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Germ Cell Cancer",
+                "children": [{
+                    "name": "Neuroectodermal Tumors",
+                    "children": [{
+                        "name": "Gliomatosis Cerebri",
+                        "children": [{
+                            "name": "Glioma",
+                            "children": [{
+                                "name": "Astrocytoma",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Glioblastoma"
+                                }]
+                            }, {
+                                "name": "Ependymoma",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Subependymal Gliosis"
+                                }]
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Retinoblastoma"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Neoplasms, Epithelial",
+                "children": [{
+                    "name": "Gliomatosis Cerebri",
+                    "children": [{
+                        "name": "Glioma",
+                        "children": [{
+                            "name": "Astrocytoma",
+                            "children": [{
+                                "values": {},
+                                "name": "Glioblastoma"
+                            }]
+                        }, {
+                            "name": "Ependymoma",
+                            "children": [{
+                                "values": {},
+                                "name": "Subependymal Gliosis"
+                            }]
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Retinoblastoma"
+                    }]
+                }, {
+                    "name": "Neoplasms, Ductal, Lobular, and Medullary",
+                    "children": [{
+                        "name": "Carcinoma, Ductal",
+                        "children": [{
+                            "values": {},
+                            "name": "Carcinoma, Ductal, Breast"
+                        }]
+                    }]
+                }, {
+                    "name": "Neoplasms, Adnexal and Skin Appendage",
+                    "children": [{
+                        "name": "Adenoma, Sweat Gland",
+                        "children": [{
+                            "values": {},
+                            "name": "Poroma"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Adenocarcinoma, Sebaceous"
+                    }, {
+                        "values": {},
+                        "name": "Carcinoma, Skin Appendage"
+                    }]
+                }, {
+                    "name": "Adenoma",
+                    "children": [{
+                        "values": {},
+                        "name": "Adenoma, Liver Cell"
+                    }, {
+                        "name": "Adenoma, Sweat Gland",
+                        "children": [{
+                            "values": {},
+                            "name": "Poroma"
+                        }]
+                    }]
+                }, {
+                    "name": "Carcinoma",
+                    "children": [{
+                        "name": "Carcinoma in Situ",
+                        "children": [{
+                            "values": {},
+                            "name": "Prostatic Intraepithelial Neoplasia"
+                        }]
+                    }, {
+                        "name": "Adenocarcinoma",
+                        "children": [{
+                            "values": {},
+                            "name": "Carcinoma, Acinar Cell"
+                        }, {
+                            "values": {},
+                            "name": "Chromophobe Renal Cell Carcinoma"
+                        }, {
+                            "name": "Cystadenocarcinoma",
+                            "children": [{
+                                "values": {},
+                                "name": "Cystadenocarcinoma, Mucinous"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Adrenocortical Carcinoma"
+                        }, {
+                            "name": "Carcinoma, Ductal",
+                            "children": [{
+                                "values": {},
+                                "name": "Carcinoma, Ductal, Breast"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Carcinoma, Skin Appendage"
+                        }, {
+                            "name": "Carcinoma, Islet Cell",
+                            "children": [{
+                                "values": {},
+                                "name": "Glucagonoma"
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Adenocarcinoma, Sebaceous"
+                        }, {
+                            "values": {},
+                            "name": "Carcinoma, Mucoepidermoid"
+                        }, {
+                            "values": {},
+                            "name": "Adenocarcinoma, Clear Cell"
+                        }, {
+                            "values": {},
+                            "name": "Carcinoma, Adenoid Cystic"
+                        }, {
+                            "values": {},
+                            "name": "Carcinoma, Hepatocellular"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Carcinoma, Large Cell"
+                    }]
+                }, {
+                    "name": "Neoplasms, Cystic, Mucinous, and Serous",
+                    "children": [{
+                        "name": "Cystadenocarcinoma",
+                        "children": [{
+                            "values": {},
+                            "name": "Cystadenocarcinoma, Mucinous"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Carcinoma, Mucoepidermoid"
+                    }]
+                }]
+            }, {
+                "name": "Leukemia",
+                "children": [{
+                    "name": "Leukemia, Lymphoid",
+                    "children": [{
+                        "name": "Leukemia, B-Cell",
+                        "children": [{
+                            "values": {},
+                            "name": "Leukemia, Lymphocytic, Chronic, B-Cell"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Lymphoma",
+                "children": [{
+                    "name": "Lymphoma, Non-Hodgkin",
+                    "children": [{
+                        "values": {},
+                        "name": "Lymphoma, Follicular"
+                    }, {
+                        "name": "Lymphoma, B-Cell",
+                        "children": [{
+                            "name": "Lymphoma, Large B-Cell, Diffuse",
+                            "children": [{
+                                "values": {},
+                                "name": "Plasmablastic Lymphoma"
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Neoplasms, Nerve Tissue",
+                "children": [{
+                    "name": "Neuroectodermal Tumors",
+                    "children": [{
+                        "name": "Gliomatosis Cerebri",
+                        "children": [{
+                            "name": "Glioma",
+                            "children": [{
+                                "name": "Astrocytoma",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Glioblastoma"
+                                }]
+                            }, {
+                                "name": "Ependymoma",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Subependymal Gliosis"
+                                }]
+                            }]
+                        }, {
+                            "values": {},
+                            "name": "Retinoblastoma"
+                        }]
+                    }]
+                }]
+            }]
+        }, {
+            "name": "Hamartoma",
+            "children": [{
+                "values": {},
+                "name": "Pallister-Hall Syndrome"
+            }]
+        }, {
+            "name": "Neoplasms by Site",
+            "children": [{
+                "name": "Neck Neoplasms",
+                "children": [{
+                    "name": "Mouth Neoplasms",
+                    "children": [{
+                        "name": "Salivary Gland Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Sublingual Gland Neoplasms"
+                        }, {
+                            "values": {},
+                            "name": "Submandibular Gland Neoplasms"
+                        }]
+                    }]
+                }, {
+                    "values": {},
+                    "name": "Tracheal Neoplasms"
+                }]
+            }, {
+                "name": "Eye Neoplasms",
+                "children": [{
+                    "name": "Retinal Cancer",
+                    "children": [{
+                        "values": {},
+                        "name": "Retinoblastoma"
+                    }]
+                }]
+            }, {
+                "name": "Nervous System Neoplasms",
+                "children": [{
+                    "name": "Central Nervous System Neoplasms",
+                    "children": [{
+                        "name": "Brain Cancer",
+                        "children": [{
+                            "name": "Supratentorial Neoplasms",
+                            "children": [{
+                                "name": "Hypothalamic Neoplasms",
+                                "children": [{
+                                    "values": {},
+                                    "name": "Pallister-Hall Syndrome"
+                                }]
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Endocrine Gland Neoplasms",
+                "children": [{
+                    "name": "Multiple Endocrine Neoplasia",
+                    "children": [{
+                        "values": {},
+                        "name": "Multiple Endocrine Neoplasia Type 2a"
+                    }]
+                }, {
+                    "name": "Pancreatic Neoplasms",
+                    "children": [{
+                        "name": "Carcinoma, Islet Cell",
+                        "children": [{
+                            "values": {},
+                            "name": "Glucagonoma"
+                        }]
+                    }]
+                }, {
+                    "name": "Adrenal Cancer",
+                    "children": [{
+                        "name": "Adrenal Cortex Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Adrenocortical Carcinoma"
+                        }, {
+                            "values": {},
+                            "name": "Adrenocortical Adenoma"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Thoracic Neoplasms",
+                "children": [{
+                    "name": "Respiratory Tract Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Tracheal Neoplasms"
+                    }]
+                }]
+            }, {
+                "name": "Digestive System Neoplasms",
+                "children": [{
+                    "name": "Gastrointestinal Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Stomach Neoplasms"
+                    }]
+                }, {
+                    "name": "Liver Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Adenoma, Liver Cell"
+                    }, {
+                        "values": {},
+                        "name": "Carcinoma, Hepatocellular"
+                    }]
+                }, {
+                    "name": "Pancreatic Neoplasms",
+                    "children": [{
+                        "name": "Carcinoma, Islet Cell",
+                        "children": [{
+                            "values": {},
+                            "name": "Glucagonoma"
+                        }]
+                    }]
+                }]
+            }, {
+                "name": "Genitourinary Cancer",
+                "children": [{
+                    "name": "Urologic Neoplasms",
+                    "children": [{
+                        "name": "Kidney Neoplasms",
+                        "children": [{
+                            "values": {},
+                            "name": "Chromophobe Renal Cell Carcinoma"
+                        }]
+                    }, {
+                        "values": {},
+                        "name": "Urinary Bladder Cancer"
+                    }]
+                }]
+            }, {
+                "name": "Soft Tissue Neoplasms",
+                "children": [{
+                    "values": {},
+                    "name": "Muscle Neoplasms"
+                }]
+            }, {
+                "name": "Breast Cancer",
+                "children": [{
+                    "values": {},
+                    "name": "Triple Negative Breast Neoplasms"
+                }, {
+                    "values": {},
+                    "name": "Carcinoma, Ductal, Breast"
+                }]
+            }]
+        }]
+    }, {
+        "name": "Dental Diseases",
+        "children": [{
+            "name": "Mouth Diseases",
+            "children": [{
+                "name": "Salivary Gland Diseases",
+                "children": [{
+                    "name": "Submandibular Gland Diseases",
+                    "children": [{
+                        "values": {},
+                        "name": "Submandibular Gland Neoplasms"
+                    }]
+                }, {
+                    "name": "Salivary Gland Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Sublingual Gland Neoplasms"
+                    }, {
+                        "values": {},
+                        "name": "Submandibular Gland Neoplasms"
+                    }]
+                }]
+            }, {
+                "name": "Mouth Neoplasms",
+                "children": [{
+                    "name": "Salivary Gland Neoplasms",
+                    "children": [{
+                        "values": {},
+                        "name": "Sublingual Gland Neoplasms"
+                    }, {
+                        "values": {},
+                        "name": "Submandibular Gland Neoplasms"
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Chemically-Induced Disorders",
+        "children": [{
+            "name": "Substance Abuse",
+            "children": [{
+                "name": "Opiate Dependence",
+                "children": [{
+                    "values": {},
+                    "name": "Morphine Dependence"
+                }]
+            }, {
+                "name": "Alcohol-Related Disorders",
+                "children": [{
+                    "name": "Alcohol-Induced Disorders",
+                    "children": [{
+                        "name": "Liver Diseases, Alcoholic",
+                        "children": [{
+                            "values": {},
+                            "name": "Alcoholic Steatohepatitis"
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "Injuries",
+        "children": [{
+            "name": "Leg Injuries",
+            "children": [{
+                "name": "Knee Injuries",
+                "children": [{
+                    "values": {},
+                    "name": "Anterior Cruciate Ligament Injuries"
+                }]
+            }]
+        }, {
+            "values": {},
+            "name": "Surgical Wound"
+        }, {
+            "name": "Fractures, Bone",
+            "children": [{
+                "values": {},
+                "name": "Fractures, Avulsion"
+            }]
+        }, {
+            "values": {},
+            "name": "Contrecoup Injury"
+        }]
+    }]
+}
